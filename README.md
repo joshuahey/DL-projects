@@ -1,5 +1,5 @@
-# h1 Brain Tumor detection project
-# h1 Image classifier
+<h1> Brain Tumor detection project </h1>
+<h2> Image classifier </h2>
 https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection?datasetId=165566&sortBy=voteCount
 
 # TESS emotional speech set
